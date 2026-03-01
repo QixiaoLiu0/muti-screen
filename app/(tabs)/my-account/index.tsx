@@ -123,7 +123,7 @@ const Index = () => {
               ]}
             >
               <DiyListItem
-                text="Paymen methods"
+                text="Payment methods"
                 leftIcon={
                   <AntDesign name="credit-card" size={18} color="black" />
                 }
@@ -174,7 +174,7 @@ const Index = () => {
               ]}
             >
               <DiyListItem
-                text="Paymen methods"
+                text="Payment methods"
                 leftIcon={
                   <AntDesign name="credit-card" size={18} color="black" />
                 }
@@ -225,7 +225,7 @@ const Index = () => {
               ]}
             >
               <DiyListItem
-                text="Paymen methods"
+                text="Payment methods"
                 leftIcon={
                   <AntDesign name="credit-card" size={18} color="black" />
                 }
@@ -276,7 +276,7 @@ const Index = () => {
               ]}
             >
               <DiyListItem
-                text="Paymen methods"
+                text="Payment methods"
                 leftIcon={
                   <AntDesign name="credit-card" size={18} color="black" />
                 }
